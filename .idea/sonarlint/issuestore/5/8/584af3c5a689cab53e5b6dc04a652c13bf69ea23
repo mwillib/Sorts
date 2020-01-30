@@ -1,8 +1,8 @@
 
-]squid:S1118":Add a private constructor to hide the implicit public one.(×™ˆâıÿÿÿÿ8½Î—¶ş-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÂŒ£Ïıÿÿÿÿ8²âˆ½ş-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(¨¼êİ8…›©½ş-
+]squid:S1118":Add a private constructor to hide the implicit public one.(×™ˆâıÿÿÿÿ8½Î—¶ş-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(¤Õªë8‚“¶ş-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÂŒ£Ïıÿÿÿÿ8²âˆ½ş-

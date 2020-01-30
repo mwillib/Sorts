@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a44e9b96-d195-4e21-b070-557355ad8154" name="Default Changelist" comment="" />
+    <list default="true" id="a44e9b96-d195-4e21-b070-557355ad8154" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/584af3c5a689cab53e5b6dc04a652c13bf69ea23" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/584af3c5a689cab53e5b6dc04a652c13bf69ea23" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df5e822ca933d7399f730c8faec12d45f8701505" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df5e822ca933d7399f730c8faec12d45f8701505" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WyQojFNvLXEDMxZo46yuoQs2La" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -65,7 +75,8 @@
       <updated>1580119532328</updated>
       <workItem from="1580119535879" duration="11886000" />
       <workItem from="1580384636491" duration="218000" />
-      <workItem from="1580384873840" duration="880000" />
+      <workItem from="1580384873840" duration="1705000" />
+      <workItem from="1580390787927" duration="296000" />
     </task>
     <servers />
   </component>
@@ -73,22 +84,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1580385468557">
+    <state x="528" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580390616984">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1580385468557" />
-    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1580385468556">
+    <state x="528" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1580390616984" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1580391158962">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1580385468556" />
-    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1580385468555">
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1580391158962" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1580391158961">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1580385468555" />
-    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1580385468557">
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1580391158961" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1580391158961">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1580385468557" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1580391158961" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1580391158962">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1580391158962" />
     <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1580373230358">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

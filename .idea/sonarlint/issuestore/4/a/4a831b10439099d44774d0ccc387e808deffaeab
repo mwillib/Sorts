@@ -1,5 +1,5 @@
 
-Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(æãêÔ8ËÌÿ-
 ]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8‘í¨½ş-
-Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(æãêÔ8ë¦§½ş-
-Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(æãêÔ8ËÌÿ-
+Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(æãêÔ8±Ó¹²ÿ-
+Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(æãêÔ8»ü®²ÿ-
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Íœœ88Ğ©Ÿ²ÿ-

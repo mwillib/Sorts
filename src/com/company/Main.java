@@ -32,11 +32,10 @@ public class Main {
 
         Insertion.main(array);
 
-//        //Creating a New Random Array for each sort.
-//        for(int i = 0; i < arrayLength; i++){
-//            array[i] = (int) (Math.random()*10);
-//        }
-        array = new int[]{4,2,5,1,7,6,3};
+        //Creating a New Random Array for each sort.
+        for(int i = 0; i < arrayLength; i++){
+            array[i] = (int) (Math.random()*10);
+        }
         Merge.main(array);
 
     }

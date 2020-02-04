@@ -1,5 +1,9 @@
 
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍÊºìøÿÿÿÿ8êúµÿ-
 ]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8‘í¨½ş-
-Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(æãêÔ8±Ó¹²ÿ-
-Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(æãêÔ8»ü®²ÿ-
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Íœœ88Ğ©Ÿ²ÿ-
+Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(æãêÔ8Œı µÿ-
+Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(æãêÔ8Œı µÿ-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥¥öÒ8ıºÍâÿ-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥¥öÒ8›ÜÍâÿ-
+hsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(Íœœ88Œı µÿ-

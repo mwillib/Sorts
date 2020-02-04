@@ -16,13 +16,22 @@ public class Main {
         for(int i = 0; i < arrayLength; i++){
             array[i] = (int) (Math.random()*10);
         }
+
+        //Already Sorted Array
+//        array = new int[]{1,2,3,4,5,6,7};
+
         Selection.main(array);
 
         //Creating a New Random Array for each sort.
         for(int i = 0; i < arrayLength; i++){
             array[i] = (int) (Math.random()*10);
         }
+
+        //Already Sorted Array
+//        array = new int[]{1,2,3,4,5,6,7};
+
         Insertion.main(array);
+
 //        //Creating a New Random Array for each sort.
 //        for(int i = 0; i < arrayLength; i++){
 //            array[i] = (int) (Math.random()*10);
